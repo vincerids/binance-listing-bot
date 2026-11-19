@@ -1,0 +1,17 @@
+{
+  "name": "binance-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binance-new-listings.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.21.1",
+    "dotenv": "^18.0.10"
+  }
+}
